@@ -28,6 +28,7 @@ const (
 	String  string  = ""
 	Bool    bool    = false
 	Int     int     = 0
+	Int64   int64    = 0
 	Float32 float32 = 0
 	Float64 float64 = 0
 )
